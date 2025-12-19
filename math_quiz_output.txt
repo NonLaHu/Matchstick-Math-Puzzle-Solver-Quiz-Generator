@@ -1,0 +1,1022 @@
+Equation: 0 + 0 = 6
+ Fixes by moving one stick (type 0):
+  Change i from 0 to 6 by moving b→g
+  Change j from 0 to 6 by moving b→g
+  Change z from 6 to 0 by moving g→b
+
+Equation: 0 + 0 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 0 to 9 by moving e→g
+  Change j from 0 to 9 by moving e→g
+  Change z from 9 to 0 by moving g→e
+
+Equation: 0 + 1 = 7
+ Fixes by moving one stick (type 0):
+  Change i from 0 to 6 by moving b→g
+
+Equation: 0 + 1 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add g to i, equation fixed
+
+Equation: 0 + 2 = 3
+ Fixes by moving one stick (type 0):
+  Change j from 2 to 3 by moving e→c
+  Change z from 3 to 2 by moving c→e
+
+Equation: 0 + 2 = 8
+ Fixes by moving one stick (type 0):
+  Change i from 0 to 6 by moving b→g
+
+Equation: 0 + 3 = 2
+ Fixes by moving one stick (type 0):
+  Change z from 2 to 3 by moving e→c
+  Change j from 3 to 2 by moving c→e
+
+Equation: 0 + 3 = 5
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 5 by moving b→f
+  Change z from 5 to 3 by moving f→b
+
+Equation: 0 + 3 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add f to j, equation fixed
+
+Equation: 0 + 3 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 0 to 6 by moving b→g
+
+Equation: 0 + 5 = 3
+ Fixes by moving one stick (type 0):
+  Change z from 3 to 5 by moving b→f
+  Change j from 5 to 3 by moving f→b
+
+Equation: 0 + 5 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from z, Add e to j, equation fixed
+  Remove e from z, Add b to j, equation fixed
+
+Equation: 0 + 6 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 6 by moving b→g
+  Change j from 6 to 0 by moving g→b
+
+Equation: 0 + 6 = 9
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 9 by moving e→b
+  Change z from 9 to 6 by moving b→e
+
+Equation: 0 + 7 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from j, Add g to i, equation fixed
+
+Equation: 0 + 8 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from j, Add f to z, equation fixed
+
+Equation: 0 + 8 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add e to z, equation fixed
+  Remove e from j, Add b to z, equation fixed
+
+Equation: 0 + 9 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+  Change j from 9 to 0 by moving g→e
+
+Equation: 0 + 9 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+  Change j from 9 to 6 by moving b→e
+
+Equation: 1 + 0 = 7
+ Fixes by moving one stick (type 0):
+  Change j from 0 to 6 by moving b→g
+
+Equation: 1 + 0 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add g to j, equation fixed
+
+Equation: 1 + 1 = 3
+ Fixes by moving one stick (type 0):
+  Change z from 3 to 2 by moving c→e
+
+Equation: 1 + 2 = 2
+ Fixes by moving one stick (type 0):
+  Change z from 2 to 3 by moving e→c
+
+Equation: 1 + 2 = 4
+ Fixes by moving one stick (type 0):
+  Change j from 2 to 3 by moving e→c
+
+Equation: 1 + 2 = 5
+ Fixes by moving one stick (type 0):
+  Change z from 5 to 3 by moving f→b
+
+Equation: 1 + 2 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add a to i, equation fixed
+
+Equation: 1 + 3 = 3
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 2 by moving c→e
+
+Equation: 1 + 3 = 6
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 5 by moving b→f
+
+Equation: 1 + 4 = 3
+ Fixes by moving one stick (type 0):
+  Change z from 3 to 5 by moving b→f
+
+Equation: 1 + 5 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 6 by moving b→g
+
+Equation: 1 + 5 = 4
+ Fixes by moving one stick (type 0):
+  Change j from 5 to 3 by moving f→b
+
+Equation: 1 + 5 = 9
+ Fixes by moving one stick (type 0):
+  Change z from 9 to 6 by moving b→e
+
+Equation: 1 + 6 = 1
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 0 by moving g→b
+
+Equation: 1 + 6 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from j, Add e to z, equation fixed
+
+Equation: 1 + 6 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add b to j, equation fixed
+
+Equation: 1 + 8 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+
+Equation: 1 + 8 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add a to z, equation fixed
+
+Equation: 1 + 8 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+
+Equation: 1 + 8 = 7
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add a to i, equation fixed
+
+Equation: 1 + 9 = 1
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 0 by moving g→e
+
+Equation: 1 + 9 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add e to z, equation fixed
+
+Equation: 1 + 9 = 7
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 6 by moving b→e
+
+Equation: 1 + 9 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add e to j, equation fixed
+
+Equation: 2 + 0 = 3
+ Fixes by moving one stick (type 0):
+  Change i from 2 to 3 by moving e→c
+  Change z from 3 to 2 by moving c→e
+
+Equation: 2 + 0 = 8
+ Fixes by moving one stick (type 0):
+  Change j from 0 to 6 by moving b→g
+
+Equation: 2 + 1 = 2
+ Fixes by moving one stick (type 0):
+  Change z from 2 to 3 by moving e→c
+
+Equation: 2 + 1 = 4
+ Fixes by moving one stick (type 0):
+  Change i from 2 to 3 by moving e→c
+
+Equation: 2 + 1 = 5
+ Fixes by moving one stick (type 0):
+  Change z from 5 to 3 by moving f→b
+
+Equation: 2 + 1 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add a to j, equation fixed
+
+Equation: 2 + 2 = 5
+ Fixes by moving one stick (type 0):
+  Change i from 2 to 3 by moving e→c
+  Change j from 2 to 3 by moving e→c
+
+Equation: 2 + 3 = 3
+ Fixes by moving one stick (type 0):
+  Change z from 3 to 5 by moving b→f
+
+Equation: 2 + 3 = 4
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 2 by moving c→e
+
+Equation: 2 + 3 = 6
+ Fixes by moving one stick (type 0):
+  Change i from 2 to 3 by moving e→c
+
+Equation: 2 + 3 = 7
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 5 by moving b→f
+
+Equation: 2 + 4 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 6 by moving b→g
+
+Equation: 2 + 4 = 7
+ Fixes by moving one stick (type 0):
+  Change i from 2 to 3 by moving e→c
+
+Equation: 2 + 4 = 9
+ Fixes by moving one stick (type 0):
+  Change z from 9 to 6 by moving b→e
+
+Equation: 2 + 5 = 5
+ Fixes by moving one stick (type 0):
+  Change j from 5 to 3 by moving f→b
+
+Equation: 2 + 5 = 8
+ Fixes by moving one stick (type 0):
+  Change i from 2 to 3 by moving e→c
+
+Equation: 2 + 6 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from j, Add a to z, equation fixed
+
+Equation: 2 + 6 = 2
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 0 by moving g→b
+
+Equation: 2 + 6 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 2 to 3 by moving e→c
+
+Equation: 2 + 7 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+
+Equation: 2 + 7 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+
+Equation: 2 + 8 = 0
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add g to z, equation fixed
+
+Equation: 2 + 8 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add b to z, equation fixed
+
+Equation: 2 + 8 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add e to z, equation fixed
+
+Equation: 2 + 9 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add a to z, equation fixed
+
+Equation: 2 + 9 = 2
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 0 by moving g→e
+
+Equation: 2 + 9 = 8
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 6 by moving b→e
+
+Equation: 3 + 0 = 2
+ Fixes by moving one stick (type 0):
+  Change z from 2 to 3 by moving e→c
+  Change i from 3 to 2 by moving c→e
+
+Equation: 3 + 0 = 5
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 5 by moving b→f
+  Change z from 5 to 3 by moving f→b
+
+Equation: 3 + 0 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add f to i, equation fixed
+
+Equation: 3 + 0 = 9
+ Fixes by moving one stick (type 0):
+  Change j from 0 to 6 by moving b→g
+
+Equation: 3 + 1 = 3
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 2 by moving c→e
+
+Equation: 3 + 1 = 6
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 5 by moving b→f
+
+Equation: 3 + 2 = 3
+ Fixes by moving one stick (type 0):
+  Change z from 3 to 5 by moving b→f
+
+Equation: 3 + 2 = 4
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 2 by moving c→e
+
+Equation: 3 + 2 = 6
+ Fixes by moving one stick (type 0):
+  Change j from 2 to 3 by moving e→c
+
+Equation: 3 + 2 = 7
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 5 by moving b→f
+
+Equation: 3 + 3 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 6 by moving b→g
+
+Equation: 3 + 3 = 5
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 2 by moving c→e
+  Change j from 3 to 2 by moving c→e
+
+Equation: 3 + 3 = 8
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 5 by moving b→f
+  Change j from 3 to 5 by moving b→f
+
+Equation: 3 + 3 = 9
+ Fixes by moving one stick (type 0):
+  Change z from 9 to 6 by moving b→e
+
+Equation: 3 + 4 = 6
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 2 by moving c→e
+
+Equation: 3 + 4 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 5 by moving b→f
+
+Equation: 3 + 5 = 6
+ Fixes by moving one stick (type 0):
+  Change j from 5 to 3 by moving f→b
+
+Equation: 3 + 5 = 7
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 2 by moving c→e
+
+Equation: 3 + 6 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from j, Add g to z, equation fixed
+
+Equation: 3 + 6 = 3
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 0 by moving g→b
+
+Equation: 3 + 6 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from j, Add b to z, equation fixed
+
+Equation: 3 + 6 = 8
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 2 by moving c→e
+
+Equation: 3 + 7 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 3 to 2 by moving c→e
+
+Equation: 3 + 8 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add f to z, equation fixed
+
+Equation: 3 + 8 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add b to z, equation fixed
+
+Equation: 3 + 8 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add f to i, equation fixed
+
+Equation: 3 + 9 = 0
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add g to z, equation fixed
+
+Equation: 3 + 9 = 3
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 0 by moving g→e
+
+Equation: 3 + 9 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from j, Add e to z, equation fixed
+
+Equation: 3 + 9 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add b to z, equation fixed
+
+Equation: 3 + 9 = 9
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 6 by moving b→e
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add e to z, equation fixed
+
+Equation: 4 + 1 = 3
+ Fixes by moving one stick (type 0):
+  Change z from 3 to 5 by moving b→f
+
+Equation: 4 + 2 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 6 by moving b→g
+
+Equation: 4 + 2 = 7
+ Fixes by moving one stick (type 0):
+  Change j from 2 to 3 by moving e→c
+
+Equation: 4 + 2 = 9
+ Fixes by moving one stick (type 0):
+  Change z from 9 to 6 by moving b→e
+
+Equation: 4 + 3 = 6
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 2 by moving c→e
+
+Equation: 4 + 3 = 9
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 5 by moving b→f
+
+Equation: 4 + 5 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+
+Equation: 4 + 5 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+
+Equation: 4 + 5 = 7
+ Fixes by moving one stick (type 0):
+  Change j from 5 to 3 by moving f→b
+
+Equation: 4 + 6 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from j, Add f to z, equation fixed
+
+Equation: 4 + 6 = 4
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 0 by moving g→b
+
+Equation: 4 + 6 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from j, Add b to z, equation fixed
+
+Equation: 4 + 9 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from j, Add a to z, equation fixed
+
+Equation: 4 + 9 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add f to z, equation fixed
+
+Equation: 4 + 9 = 4
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 0 by moving g→e
+
+Equation: 4 + 9 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from j, Add b to z, equation fixed
+
+Equation: 5 + 0 = 3
+ Fixes by moving one stick (type 0):
+  Change z from 3 to 5 by moving b→f
+  Change i from 5 to 3 by moving f→b
+
+Equation: 5 + 0 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from z, Add e to i, equation fixed
+  Remove e from z, Add b to i, equation fixed
+
+Equation: 5 + 1 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 6 by moving b→g
+
+Equation: 5 + 1 = 4
+ Fixes by moving one stick (type 0):
+  Change i from 5 to 3 by moving f→b
+
+Equation: 5 + 1 = 9
+ Fixes by moving one stick (type 0):
+  Change z from 9 to 6 by moving b→e
+
+Equation: 5 + 2 = 5
+ Fixes by moving one stick (type 0):
+  Change i from 5 to 3 by moving f→b
+
+Equation: 5 + 2 = 8
+ Fixes by moving one stick (type 0):
+  Change j from 2 to 3 by moving e→c
+
+Equation: 5 + 3 = 6
+ Fixes by moving one stick (type 0):
+  Change i from 5 to 3 by moving f→b
+
+Equation: 5 + 3 = 7
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 2 by moving c→e
+
+Equation: 5 + 4 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+
+Equation: 5 + 4 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+
+Equation: 5 + 4 = 7
+ Fixes by moving one stick (type 0):
+  Change i from 5 to 3 by moving f→b
+
+Equation: 5 + 5 = 8
+ Fixes by moving one stick (type 0):
+  Change i from 5 to 3 by moving f→b
+  Change j from 5 to 3 by moving f→b
+
+Equation: 5 + 6 = 5
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 0 by moving g→b
+
+Equation: 5 + 6 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 5 to 3 by moving f→b
+
+Equation: 5 + 7 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from j, Add e to z, equation fixed
+
+Equation: 5 + 7 = 7
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from j, Add e to i, equation fixed
+
+Equation: 5 + 8 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add e to i, equation fixed
+
+Equation: 5 + 8 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add b to i, equation fixed
+
+Equation: 5 + 9 = 0
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from j, Add g to z, equation fixed
+
+Equation: 5 + 9 = 5
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 0 by moving g→e
+
+Equation: 5 + 9 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from j, Add b to z, equation fixed
+
+Equation: 5 + 9 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from j, Add e to i, equation fixed
+  Remove f from j, Add e to z, equation fixed
+
+Equation: 6 + 0 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 6 by moving b→g
+  Change i from 6 to 0 by moving g→b
+
+Equation: 6 + 0 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 9 by moving e→b
+  Change z from 9 to 6 by moving b→e
+
+Equation: 6 + 1 = 1
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+
+Equation: 6 + 1 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from i, Add e to z, equation fixed
+
+Equation: 6 + 1 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add b to i, equation fixed
+
+Equation: 6 + 2 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from i, Add a to z, equation fixed
+
+Equation: 6 + 2 = 2
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+
+Equation: 6 + 2 = 9
+ Fixes by moving one stick (type 0):
+  Change j from 2 to 3 by moving e→c
+
+Equation: 6 + 3 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from i, Add g to z, equation fixed
+
+Equation: 6 + 3 = 3
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+
+Equation: 6 + 3 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from i, Add b to z, equation fixed
+
+Equation: 6 + 3 = 8
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 2 by moving c→e
+
+Equation: 6 + 4 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from i, Add f to z, equation fixed
+
+Equation: 6 + 4 = 4
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+
+Equation: 6 + 4 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from i, Add b to z, equation fixed
+
+Equation: 6 + 5 = 5
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+
+Equation: 6 + 5 = 9
+ Fixes by moving one stick (type 0):
+  Change j from 5 to 3 by moving f→b
+
+Equation: 6 + 6 = 6
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+  Change j from 6 to 0 by moving g→b
+
+Equation: 6 + 7 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from j, Add a to z, equation fixed
+
+Equation: 6 + 7 = 7
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+
+Equation: 6 + 7 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from j, Add b to i, equation fixed
+
+Equation: 6 + 8 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add e to z, equation fixed
+
+Equation: 6 + 8 = 8
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add b to i, equation fixed
+
+Equation: 6 + 9 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from j, Add f to z, equation fixed
+
+Equation: 6 + 9 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from j, Add b to z, equation fixed
+
+Equation: 6 + 9 = 6
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 0 by moving g→e
+
+Equation: 6 + 9 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 6 to 0 by moving g→b
+
+Equation: 7 + 0 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add g to j, equation fixed
+
+Equation: 7 + 2 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+
+Equation: 7 + 2 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+
+Equation: 7 + 3 = 9
+ Fixes by moving one stick (type 0):
+  Change j from 3 to 2 by moving c→e
+
+Equation: 7 + 5 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add e to z, equation fixed
+
+Equation: 7 + 5 = 7
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add e to j, equation fixed
+
+Equation: 7 + 6 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add a to z, equation fixed
+
+Equation: 7 + 6 = 7
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 0 by moving g→b
+
+Equation: 7 + 6 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add b to j, equation fixed
+
+Equation: 7 + 7 = 0
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add g to z, equation fixed
+  Remove a from j, Add g to z, equation fixed
+
+Equation: 7 + 7 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add b to z, equation fixed
+  Remove a from j, Add b to z, equation fixed
+
+Equation: 7 + 7 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add e to z, equation fixed
+  Remove a from j, Add e to z, equation fixed
+
+Equation: 7 + 8 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add a to z, equation fixed
+
+Equation: 7 + 8 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add f to z, equation fixed
+
+Equation: 7 + 8 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add b to z, equation fixed
+
+Equation: 7 + 9 = 7
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 0 by moving g→e
+
+Equation: 7 + 9 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from i, Add e to j, equation fixed
+
+Equation: 8 + 0 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from i, Add f to z, equation fixed
+
+Equation: 8 + 0 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add e to z, equation fixed
+  Remove e from i, Add b to z, equation fixed
+
+Equation: 8 + 1 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+
+Equation: 8 + 1 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add a to z, equation fixed
+
+Equation: 8 + 1 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+
+Equation: 8 + 1 = 7
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add a to j, equation fixed
+
+Equation: 8 + 2 = 0
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add g to z, equation fixed
+
+Equation: 8 + 2 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add b to z, equation fixed
+
+Equation: 8 + 2 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add e to z, equation fixed
+
+Equation: 8 + 3 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add f to z, equation fixed
+
+Equation: 8 + 3 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add b to z, equation fixed
+
+Equation: 8 + 3 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add f to j, equation fixed
+
+Equation: 8 + 5 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add e to j, equation fixed
+
+Equation: 8 + 5 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add b to j, equation fixed
+
+Equation: 8 + 6 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add e to z, equation fixed
+
+Equation: 8 + 6 = 8
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 0 by moving g→b
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add b to j, equation fixed
+
+Equation: 8 + 7 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add a to z, equation fixed
+
+Equation: 8 + 7 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from j, Add f to z, equation fixed
+
+Equation: 8 + 7 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from j, Add b to z, equation fixed
+
+Equation: 8 + 8 = 0
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add g to z, equation fixed
+  Remove g from j, Add g to z, equation fixed
+
+Equation: 8 + 8 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add b to z, equation fixed
+  Remove g from j, Add b to z, equation fixed
+
+Equation: 8 + 8 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add e to z, equation fixed
+  Remove g from j, Add e to z, equation fixed
+
+Equation: 8 + 9 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add f to z, equation fixed
+
+Equation: 8 + 9 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add b to z, equation fixed
+
+Equation: 8 + 9 = 8
+ Fixes by moving one stick (type 0):
+  Change j from 9 to 0 by moving g→e
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from i, Add e to j, equation fixed
+
+Equation: 9 + 0 = 0
+ Fixes by moving one stick (type 0):
+  Change z from 0 to 9 by moving e→g
+  Change i from 9 to 0 by moving g→e
+
+Equation: 9 + 0 = 6
+ Fixes by moving one stick (type 0):
+  Change z from 6 to 9 by moving e→b
+  Change i from 9 to 6 by moving b→e
+
+Equation: 9 + 1 = 1
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+
+Equation: 9 + 1 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add e to z, equation fixed
+
+Equation: 9 + 1 = 7
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 6 by moving b→e
+
+Equation: 9 + 1 = 8
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove e from z, Add e to i, equation fixed
+
+Equation: 9 + 2 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add a to z, equation fixed
+
+Equation: 9 + 2 = 2
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+
+Equation: 9 + 2 = 8
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 6 by moving b→e
+
+Equation: 9 + 3 = 0
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add g to z, equation fixed
+
+Equation: 9 + 3 = 3
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+
+Equation: 9 + 3 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from i, Add e to z, equation fixed
+
+Equation: 9 + 3 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add b to z, equation fixed
+
+Equation: 9 + 3 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 6 by moving b→e
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add e to z, equation fixed
+
+Equation: 9 + 4 = 1
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from i, Add a to z, equation fixed
+
+Equation: 9 + 4 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add f to z, equation fixed
+
+Equation: 9 + 4 = 4
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+
+Equation: 9 + 4 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove b from i, Add b to z, equation fixed
+
+Equation: 9 + 5 = 0
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from i, Add g to z, equation fixed
+
+Equation: 9 + 5 = 5
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+
+Equation: 9 + 5 = 6
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from i, Add b to z, equation fixed
+
+Equation: 9 + 5 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from i, Add e to j, equation fixed
+  Remove f from i, Add e to z, equation fixed
+
+Equation: 9 + 6 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from i, Add f to z, equation fixed
+
+Equation: 9 + 6 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove f from i, Add b to z, equation fixed
+
+Equation: 9 + 6 = 6
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+
+Equation: 9 + 6 = 9
+ Fixes by moving one stick (type 0):
+  Change j from 6 to 0 by moving g→b
+
+Equation: 9 + 7 = 7
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+
+Equation: 9 + 7 = 9
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove a from j, Add e to i, equation fixed
+
+Equation: 9 + 8 = 3
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add f to z, equation fixed
+
+Equation: 9 + 8 = 5
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add b to z, equation fixed
+
+Equation: 9 + 8 = 8
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+ Fixes by removing & adding sticks (type 1 & 2):
+  Remove g from j, Add e to i, equation fixed
+
+Equation: 9 + 9 = 9
+ Fixes by moving one stick (type 0):
+  Change i from 9 to 0 by moving g→e
+  Change j from 9 to 0 by moving g→e
+
